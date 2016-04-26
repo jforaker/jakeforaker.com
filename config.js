@@ -11,7 +11,7 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here.
     production: {
-        url: 'https://jakeforaker.herokuapp.com/',
+        url: 'http://jakeforaker.com/',
         fileStorage: false,
         mail: {},
         database: {
