@@ -51,7 +51,7 @@
     "intl-messageformat": "1.2.0",
     "jsonpath": "0.2.2",
     "knex": "0.10.0",
-    "lodash": "3.10.1",
+    "lodash": "4.17.15",
     "lodash.tostring": "4.1.2",
     "moment": "2.11.2",
     "morgan": "1.6.1",
